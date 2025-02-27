@@ -2,8 +2,8 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbuzatto&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dbuzatto&locale=en&hide_title=false&layout=compact&langs_count=4&theme=react&hide_border=true&card_width=350" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dbuzatto&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="140" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dbuzatto&locale=en&hide_title=false&layout=compact&langs_count=4&theme=react&hide_border=true&card_width=350" height="140" alt="languages graph" />
 </div>
 <div style="display: inline_block"><br>
 
