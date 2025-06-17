@@ -8,7 +8,7 @@
 
 <!-- Skills -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,py,kubernetes,terraform,aws,ubuntu,gcp,gitlab,linux,git,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=docker,py,js,html,css,kubernetes,terraform,aws,gcp,gitlab,linux,git,grafana,prometheus" />
 </p>
 
 <!-- Redes sociais -->
