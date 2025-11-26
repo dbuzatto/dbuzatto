@@ -5,7 +5,7 @@
 
 <!-- Skills -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,terraform,aws,gcp,cloudflare,docker,git,gitlab,grafana,prometheus,kubernetes,mongodb,postman,py,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=linux,terraform,kubernetes,docker,git,aws,gcp,cloudflare,gitlab,grafana,prometheus,mongodb,postman,py,rabbitmq" />
 </p>
 
 <!-- Redes sociais -->
